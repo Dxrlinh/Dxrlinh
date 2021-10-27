@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dxrlinh
 I am stupid
-I lice tacos
+I like tacos
 
 <!---
 Dxrlinh/Dxrlinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
