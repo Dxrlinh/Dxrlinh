@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dxrlinh
-I am stupid
+I am stupid and
 I like tacos
 
 <!---
