@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Dxrlinh
-I am stupid and
-I like tacos
+gf
 
 <!---
 Dxrlinh/Dxrlinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
